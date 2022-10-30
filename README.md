@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @zielak910
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+TASK 1
 
-<!---
-zielak910/zielak910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Subtask 1
+
+3/10 ;<
+
+
+Cześć nazywam się Przemek Wziołem udział w projekcie ponieważ czuję ze to jest dla mnie wyzwanie .lubie pracować na komputerze ale niestety nie było mi to dane 
+
+Moim głównym celem jest nauczyć sie jak najwięcej do grudnia oraz zminić prace jako tester maulny już kiedyś uczestniczyłem w kursie pare  lat temu lecz teraz 
+musze wszytko sobie przypomnieć odnowa. Musze Cieżko popracować ale wierzę ze bedzie warto !!. 💯
