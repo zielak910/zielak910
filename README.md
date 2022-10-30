@@ -10,3 +10,10 @@ Cześć nazywam się Przemek Wziołem udział w projekcie ponieważ czuję ze to
 
 Moim głównym celem jest nauczyć sie jak najwięcej do grudnia oraz zminić prace jako tester maulny już kiedyś uczestniczyłem w kursie pare  lat temu lecz teraz 
 musze wszytko sobie przypomnieć odnowa. Musze Cieżko popracować ale wierzę ze bedzie warto !!. 💯
+
+
+
+Subtask 4
+
+
+
